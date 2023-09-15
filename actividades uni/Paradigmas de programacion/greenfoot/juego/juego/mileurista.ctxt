@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=mileurista
+comment1.params=
+comment1.target=mileurista()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ girar()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ checkCollision2()
+numComments=6
